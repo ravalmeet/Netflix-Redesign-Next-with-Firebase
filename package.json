@@ -17,7 +17,7 @@
     "@mui/material": "^5.5.1",
     "@stripe/firestore-stripe-payments": "^0.0.6",
     "@tailwindcss/line-clamp": "^0.3.1",
-    "firebase": "^9.6.10",
+    "firebase": "^9.6.11",
     "framer-motion": "^6.2.8",
     "next": "latest",
     "next-transpile-modules": "^9.0.0",
